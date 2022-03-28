@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Artificial Intelligence,flutter,AWS and Azure
 - 💬 Ask me about  Asp.net,PHP,SQL,DeepLearning,Html,Css,Javascript,C#,Docker,WebHosting,Firebase
-- 📫 How to reach me: faraz.ansar@techlogix.com
+- 📫 How to reach me: muhammadfarazansar@gmail.com
+- 
 
 
